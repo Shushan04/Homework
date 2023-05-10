@@ -17,8 +17,5 @@ increment.addEventListener('click', function(){
     span.style.color = 'green'
  });
 
-//  reset.addEventListener('click', function (){
-//     number = 0;
-//     span.innerHTML = number;
-//  })
+
 
